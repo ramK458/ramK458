@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramK458
 
-I work in research and enjoys programming. I am interested in signal processing and environment perception algorithms. 
+I work in research and enjoy programming. I am interested in signal processing and environment perception algorithms. 
 Most of my experience is in Matlab, python and a little bit of C++. If you have some interesting ideas, or looking for collabs in similar fields, drop a short message. 
 
 <!---
